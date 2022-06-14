@@ -1,5 +1,4 @@
 # Git 101 - Nisum 22
-----
 
 ### Contributors
 - Muhammad Arslan Aslam
@@ -7,4 +6,4 @@
 - Sajeel Ahmed
 - Mughees Tariq
 
-(Github.com)[https://github.com]
+[GitHub.com](https://github.com)
